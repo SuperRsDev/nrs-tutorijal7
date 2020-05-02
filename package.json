@@ -1,0 +1,24 @@
+{
+  "name": "NRS7",
+  "version": "1.0.0",
+  "description": "Tutorial 7 na predmetu NRS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "html",
+    "javascript",
+    "css"
+  ],
+  "author": "Djejlan",
+  "license": "ISC",
+  "dependencies": {
+    "cities.json": "^1.1.5",
+    "config": "^3.2.5",
+    "express": "^4.17.1",
+    "moment": "^2.24.0"
+  }
+}
